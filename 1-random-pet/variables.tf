@@ -1,6 +1,6 @@
 variable prefix {
   type        = string
-  default     = "Hello there"
+  default     = "Hello there!..."
   description = "description"
 }
 
@@ -12,7 +12,7 @@ variable length {
 
 variable separator {
   type        = string
-  default     = " "
+  default     = "  "
   description = "description"
 }
 
